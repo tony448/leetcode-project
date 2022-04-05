@@ -5,3 +5,4 @@
 3. Binary Search
 4. Data Structure(String、Hash Table、Tree....)
 5. Recursion
+6.Divde and Conquer
