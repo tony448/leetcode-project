@@ -4,5 +4,5 @@
 2. Graph theorem(BFS、DFS)
 4. Sorting
 5. Binary Search
-6. Data Structure(String、Hash Table...)
+6. Data Structure(String、Hash Table、Tree)
 7. Recursion
